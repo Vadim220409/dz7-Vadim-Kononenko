@@ -1,0 +1,31 @@
+.card {
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    color: white;
+    border: 4px solid gainsboro;
+    padding-bottom: 50px;
+    font-family: 'Anek Latin', sans-serif;
+    border-radius: 25px;
+}
+
+.img-shoes {
+    height: 300px;
+    border-radius: 20px;
+}
+
+.shoes {
+   text-align: center;
+}
+
+.text {
+    color: gainsboro;
+    text-align: center;
+}
+
+.price {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500px;
+    display: block;
+}
